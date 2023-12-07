@@ -1,4 +1,4 @@
-public class Kata
+public class Kata_003
 {
     public static int Angle(int n)
     {
