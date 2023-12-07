@@ -7,3 +7,7 @@ Simple Fun #261: Whose Move<br>
 7 kyu <br>
 Summing a number's digits<br>
 6/12/23<br>
+### Kata_003
+7 kyu <br>
+Sum of Internal Angles<br>
+7/12/23<br>
