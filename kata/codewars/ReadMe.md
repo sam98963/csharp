@@ -15,3 +15,7 @@ Sum of Internal Angles<br>
 7 kyu <br>
 Deodorant Evaporator<br>
 7/12/23<br>
+### Kata_005
+8 kyu <br>
+Sum of Differences in Array<br>
+7/12/23<br>
