@@ -19,3 +19,7 @@ Deodorant Evaporator<br>
 8 kyu <br>
 Sum of Differences in Array<br>
 7/12/23<br>
+### Kata_006
+7 kyu <br>
+Method called Factorial<br>
+7/12/23<br>
