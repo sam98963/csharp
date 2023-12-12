@@ -27,7 +27,11 @@ Method called Factorial<br>
 7 kyu <br>
 Find the Vowels<br>
 8/12/23<br>
-### Kata_007
+### Kata_008
 7 kyu <br>
 Find the middle element (from a triplet)<br>
+12/12/23<br>
+### Kata_009
+7 kyu <br>
+Remove the minimum<br>
 12/12/23<br>
