@@ -1,0 +1,12 @@
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/bin/Debug/net8.0/CaseService.deps.json
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/bin/Debug/net8.0/CaseService.dll
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/bin/Debug/net8.0/CaseService.pdb
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/CaseService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/CaseService.AssemblyInfoInputs.cache
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/CaseService.AssemblyInfo.cs
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/CaseService.csproj.CoreCompileInputs.cache
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/CaseService.sourcelink.json
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/CaseService.dll
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/refint/CaseService.dll
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/CaseService.pdb
+/Users/samwilliamson/Desktop/csharp/text-case-converter/CaseService/obj/Debug/net8.0/ref/CaseService.dll
