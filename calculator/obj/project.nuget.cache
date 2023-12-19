@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0qF/g49MzMMhMpQnmWmlxRPSWA9GKvMZaB2bqHONGlZmS7LL2eyWNpjnAtNRnv3Vifa14wQIgETXrfmUI+0BBw==",
+  "dgSpecHash": "agbCW6ZW4o/S62ZhiHkH3CVvD/0AJuIS58ypdO3XBhzUy0Nhn8tUMcXAPYXUmXls0OjVr38HjgFbJWgBsE2Nug==",
   "success": true,
   "projectFilePath": "/Users/samwilliamson/Desktop/csharp/calculator/Calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/samwilliamson/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/samwilliamson/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/samwilliamson/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

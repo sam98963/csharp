@@ -1,4 +1,3 @@
-/Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
 /Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
 /Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
 /Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/Calculator.pdb
 /Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
 /Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/ref/Calculator.dll
+/Users/samwilliamson/Desktop/csharp/calculator/obj/Debug/net7.0/Calculator.sourcelink.json
