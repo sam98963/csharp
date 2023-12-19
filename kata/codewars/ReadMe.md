@@ -35,3 +35,7 @@ Find the middle element (from a triplet)<br>
 7 kyu <br>
 Remove the minimum<br>
 12/12/23<br>
+### Kata_010
+6 kyu <br>
+Valid Ip Address<br>
+19/12/23<br>
