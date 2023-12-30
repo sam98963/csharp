@@ -43,3 +43,7 @@ Valid Ip Address<br>
 8 kyu <br>
 Remove Exclamations At End<br>
 30/12/23<br>
+### Kata_012
+7 kyu <br>
+Find Missing Numbers<br>
+30/12/23<br>
