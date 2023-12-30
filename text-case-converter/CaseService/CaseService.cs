@@ -16,5 +16,9 @@ namespace Case.Services{
     public string connectStrings(string[] input, string connector){
       return string.Join(connector, input);
     }
+
+    public string trainCase(string input){
+      return connectStrings(splitStrings(input), "-");
+    }
   }
 }

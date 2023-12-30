@@ -22,5 +22,12 @@ namespace Case.UnitTests.Services
             string result = caseService.connectStrings(["Hello", "This", "Is", "Sam"], "-");
             Assert.Equal("Hello-This-Is-Sam", result);
         }
+
+        [Fact]
+        public void TrainCase_Full_Conversion(){
+            var caseService = new CaseService();
+            string result = caseService.trainCase("Hello this is sam.");
+            Assert.Equal("Hello-This-Is-Sam.", result);
+        }
     }
 }
