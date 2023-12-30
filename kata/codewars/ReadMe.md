@@ -39,3 +39,7 @@ Remove the minimum<br>
 6 kyu <br>
 Valid Ip Address<br>
 19/12/23<br>
+### Kata_011
+8 kyu <br>
+Remove Exclamations At End<br>
+30/12/23<br>
