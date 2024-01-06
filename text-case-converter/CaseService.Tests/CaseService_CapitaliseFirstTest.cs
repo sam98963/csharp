@@ -11,6 +11,12 @@ namespace Case.UnitTests.Services
             Assert.Equal("Hello", result);
         }
         [Fact]
+        public void LowerFirst_First_Char_Is_Lower(){
+            var caseService = new CaseService();
+            string result = caseService.lowerFirst("Hello");
+            Assert.Equal("hello", result);
+        }
+        [Fact]
         public void CapitaliseFirst_Multiple_Strings_Char_Upper(){
             var caseService = new CaseService();
             string[] result = caseService.splitStrings("hello this is sam");
