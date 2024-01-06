@@ -47,3 +47,8 @@ Remove Exclamations At End<br>
 7 kyu <br>
 Find Missing Numbers<br>
 30/12/23<br>
+### Kata_013
+7 kyu <br>
+Count Emails<br>
+06/01/24<br>
+Handling no arguement given.<br>
